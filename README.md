@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geraldbuchholz
 - 👀 I’m interested in cloud networking
-- 🌱 I’m currently learning aviatrix !
+- 🌱 I’m currently learning !
 
 <!---
 geraldbuchholz/geraldbuchholz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
